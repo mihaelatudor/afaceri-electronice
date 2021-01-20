@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/mihaelatudor/afaceri-electronice/issues"
   },
-  "homepage": "https://github.com/mihaelatudor/afaceri-electronice#readme"
+  "homepage": "https://github.com/mihaelatudor/afaceri-electronice#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bulma": "^0.9.1",
+    "express": "^4.17.1",
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.0.2",
+    "jwt-decode": "^3.1.2",
+    "mysql2": "^2.2.5",
+    "react-router-dom": "^5.2.0",
+    "sequelize": "^6.4.0"
+  }
 }
